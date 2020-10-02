@@ -12,10 +12,10 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Your Name Here', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    title: 'Katherine Lannen', // Title for your website.
+    tagline: 'W&M Class of 2021, B.S. Computer Science and Data Science.',
     profilePhoto: 'img/profile.png',
-    url: 'https://joatmon08.github.io', // Your website URL
+    url: 'https://kelannen.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -23,7 +23,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'joatmon08',
+    organizationName: 'kelannen',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -48,7 +48,7 @@ const siteConfig = {
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-    copyright: `Copyright © ${new Date().getFullYear()} Your Name Here`,
+    copyright: `Copyright © ${new Date().getFullYear()} Katherine Lannen`,
 
     highlight: {
         // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
+        linkedin: 'katherine-lannen-5b2b33175',
         twitter: '',
-        github: '',
+        github: 'kelannen',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
